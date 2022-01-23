@@ -8,7 +8,7 @@ You can reach me here or at my [email](mailto:eb@flat9.dev). I'm always happy to
 
 - 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Lua, Clojure, ClojureScript
 - 🖼️ Frameworks: React, Redux, Remix, Express, Fastify, Mongoose, Primsa
-- 💻 Operating Systems: Linux
+- 💻 Operating Systems: Linux (LPIC-1 Certified)
 - 🗣️ Human languages: English, French
 - 🎸 Musical instruments: Guitar, bass
 - 🤹 Other skills: MongoDB, PostgreSQL, DevOps
