@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Astrid, a self-taught full-stack developer and professional musician based on Vancouver Island, Canada. My pronouns are *they/them*.
+I'm Erin, a self-taught full-stack developer and professional musician based on Vancouver Island, Canada. My pronouns are *they/them*.
 
 You can reach me here or at my [email](mailto:eb@flat9.dev). I'm always happy to help.
 
