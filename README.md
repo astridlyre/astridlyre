@@ -35,6 +35,8 @@ My main projects at the moment:
 
 Music is my passion, and playing guitar and bass allows me to express myself creatively. I love playing jazz and classical music on guitar, and I enjoy exploring different genres on bass. In addition, I enjoy reading books about programming. You can also usually find me watching anime... just to practice my Japanese, I swear!
 
+I also love to take pictures, which you can see on my [instagram](https://www.instagram.com/artsyidler).
+
 ## 🧮 Things, quantified
 
 [![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=astridlyre&show_icons=true&count_private=true)](https://github.com/astridlyre)
